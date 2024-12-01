@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">business card</string>
+    <string name="name">Marcel</string>
+    <string name="position">Data Scientist</string>
+    <string name="email">marcelvanwilligen@proton.me</string>
+    <string name="location">Giessenplein 24, 3522KC Utrecht</string>
+    <string name="phone_number">+31649980772</string>
+</resources>
